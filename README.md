@@ -43,6 +43,6 @@ Configure via environment variables:
 | `GITHUB_MAX_RATE_LIMIT_USAGE` | `80` | API Rate Limit usage threshold percentage |
 | `LISTEN` | `127.0.0.1:3000` | Server listen address |
 
-## Example
+<!-- ## Example
 
-[![starcharts stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
+[![starcharts stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts) -->

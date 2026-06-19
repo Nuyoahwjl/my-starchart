@@ -71,6 +71,7 @@ func New(config config.Config, cache *cache.Redis) *GitHub {
 		pageSize:       config.GitHubPageSize,
 		maxSamplePages: config.GitHubMaxSamplePages,
 		cache:          cache,
+		maxRateUsagePct: config.GitHubMaxRateUsagePct,
 	}
 }
 
